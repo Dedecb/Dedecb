@@ -1,5 +1,14 @@
 # 👩🏻‍💻 André Luiz Rosa
 
+**`Engenheiro de Software`**
+
+# Olá, eu sou o André Luiz 👋  
+
+Tenho 19 anos e, desde cedo, sou fascinado por computação e pelo aprendizado constante na área.  
+Atualmente curso Engenharia de Software na PUC Minas e criei este GitHub para compartilhar projetos pessoais e atividades da faculdade, mostrando minha evolução e desempenho ao longo do tempo.  
+
+🔗 [Meu LinkedIn](https://www.linkedin.com/in/andreluizfrosa/)
+
 <p align="left">
     <a href="https://github.com/Dedecb?tab=repositories&sort=stargazers">
         <img 
