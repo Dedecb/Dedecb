@@ -35,18 +35,19 @@ Atualmente curso **Engenharia de Software na PUC Minas** e criei este GitHub par
 
 ## ⚙️ Estatísticas
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 15px;">
 
-![Detalhes](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dedecb&theme=tokyonight)
+  <img 
+    height="150"
+    src="https://github-readme-stats.vercel.app/api?username=dedecb&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&hide_rank=true&card_width=250"
+  />
 
-![Status](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dedecb&theme=tokyonight)
-
-![Linguagens](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dedecb&theme=tokyonight)
-
-![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dedecb&theme=tokyonight)
+  <img 
+    height="150"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedecb&layout=compact&theme=tokyonight&hide_title=true&card_width=250"
+  />
 
 </div>
-
 
 
 
