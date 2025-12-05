@@ -35,17 +35,21 @@ Atualmente curso **Engenharia de Software na PUC Minas** e criei este GitHub par
 
 ## ⚙️ Estatísticas
 
-<table align="center">
-  <tr>
-    <td>
-      <img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dedecb&theme=tokyonight" alt="Resumo de perfil" />
-    </td>
-    <td>
-      <img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dedecb&theme=tokyonight" alt="Linguagens por repositório" />
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img
+          alt="GitHub Stats"
+          height="190"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dedecb&theme=tokyonight"
+        />
+      </td>
+      <td>
+        <img
+          alt="Top Languages"
+          height="190"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dedecb&theme=to
 
 
 
