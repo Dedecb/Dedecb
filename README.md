@@ -35,7 +35,7 @@ Atualmente curso **Engenharia de Software na PUC Minas** e criei este GitHub par
 
 ## ⚙️ Estatísticas
 
-<div align="center" style="display: flex; justify-content: center; gap: 15px;">
+<div align="center" style="display: flex; justify-content: center; gap: 15 px;">
 
   <img 
     height="150"
