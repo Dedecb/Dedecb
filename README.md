@@ -37,8 +37,6 @@ Atualmente curso **Engenharia de Software na PUC Minas** e criei este GitHub par
 
 <div align="left">
 
-### 📊 Meu desempenho no GitHub
-
 ![Resumo](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dedecb&theme=tokyonight)
 
 <div style="display: flex; gap: 10px;">
