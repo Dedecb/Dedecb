@@ -34,21 +34,24 @@ Atualmente curso **Engenharia de Software na PUC Minas** e criei este GitHub par
 
 ## ⚙️ Estatísticas
 
-<p align="left">
-  <img 
-    align="left" 
-    alt="Estatísticas do GitHub" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=dedecb&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    align="left" 
-    alt="Linguagens mais usadas" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dedecb&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
-</p>
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<div align="center">
+  <a href="https://github.com/Dedecb">
+    <img 
+      height="180" 
+      align="center"
+      alt="Estatísticas do GitHub" 
+      src="https://github-readme-stats.vercel.app/api?username=Dedecb&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    />
+  </a>
+  <a href="https://github.com/Dedecb">
+    <img 
+      height="180" 
+      align="center"
+      alt="Linguagens mais usadas" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dedecb&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+    />
+  </a>
+</div>
 
 
 ---
