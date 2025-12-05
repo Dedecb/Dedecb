@@ -45,7 +45,7 @@ Atualmente curso **Engenharia de Software na PUC Minas** e criei este GitHub par
     align="left" 
     alt="Linguagens mais usadas" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedecb&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dedecb&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 </p>
 <br/><br/><br/><br/><br/><br/><br/><br/>
