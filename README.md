@@ -32,27 +32,22 @@ Atualmente curso **Engenharia de Software na PUC Minas** e criei este GitHub par
 
 ---
 
+
 ## ⚙️ Estatísticas
 
 <div align="center">
-  <a href="https://github.com/andreluizrosa">
-    <img 
-      height="180" 
-      align="center"
-      alt="Estatísticas do GitHub" 
-      src="https://github-readme-stats.vercel.app/api?username=andreluizrosa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    />
-  </a>
-  <a href="https://github.com/andreluizrosa">
-    <img 
-      height="180" 
-      align="center"
-      alt="Linguagens mais usadas" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluizrosa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-    />
-  </a>
+
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=dedecb&theme=tokyonight&hide_border=false" 
+  height="200"
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedecb&layout=compact&theme=tokyonight" 
+  height="200"
+/>
+
 </div>
-<br/>
 
 
 ---
