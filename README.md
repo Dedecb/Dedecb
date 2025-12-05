@@ -76,7 +76,7 @@ Atualmente curso **Engenharia de Software na PUC Minas** e criei este GitHub par
 
 ## 💬 Sobre mim
 
-- 💡 Curioso e apaixonado por aprender novas tecnologias.  
+- 💡 Curioso e determinado por aprender novas tecnologias.  
 - ⚙️ Atualmente estudando **C, C++ e desenvolvimento Web**.  
 - 🚀 Busco contribuir para soluções que impactem positivamente pessoas e organizações.  
 - 🎓 Sempre aprimorando minhas *soft skills* como comunicação, colaboração e proatividade.  
