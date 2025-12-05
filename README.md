@@ -39,7 +39,7 @@ Atualmente curso **Engenharia de Software na PUC Minas** e criei este GitHub par
     <img 
       height="180" 
       align="center"
-      alt="Estatísticas do andreluizrosa" 
+      alt="Estatísticas do GitHub" 
       src="https://github-readme-stats.vercel.app/api?username=andreluizrosa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     />
   </a>
@@ -52,6 +52,7 @@ Atualmente curso **Engenharia de Software na PUC Minas** e criei este GitHub par
     />
   </a>
 </div>
+<br/>
 
 
 ---
