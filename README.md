@@ -78,5 +78,5 @@ Atualmente curso **Engenharia de Software na PUC Minas** e criei este GitHub par
 
 ---
 
-🧭 _"A tecnologia é o meio pelo qual transformamos ideias em impacto real."_
-⭐ Desenvolvido com dedicação por [**@Dedecb**](https://github.com/Dedecb)
+ _"Usando da tecnologia para transformar ideias em solução para problemas reias."_
+ Desenvolvido com dedicação por [**@Dedecb**](https://github.com/Dedecb)
