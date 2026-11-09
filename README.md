@@ -3,7 +3,7 @@
 
 ## 👋 Olá, eu sou o André Luiz!
 
-Tenho 19 anos e, desde cedo, sou fascinado por computação e pelo aprendizado constante na área.
+Tenho 20 anos e, desde cedo, sou fascinado por computação e pelo aprendizado constante na área.
 Atualmente curso **Engenharia de Software na PUC Minas** e criei este GitHub para compartilhar projetos pessoais e acadêmicos, demonstrando minha evolução e dedicação em cada etapa da minha formação.
 
 📍 Belo Horizonte – MG
